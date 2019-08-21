@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temperature Sensor</string>
+    <string name="strZero">0</string>
+    <string name="celsius">&#176;C</string>
+</resources>
